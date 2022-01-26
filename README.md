@@ -1,9 +1,9 @@
 ![GitHub Banner](https://cdn.discordapp.com/attachments/577128047740977162/935783584151797770/preview.jpg)
 
 ## Find me elsewhere
-![](https://img.icons8.com/fluency/48/000000/instagram-new.png)
+[![](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/rohit.yadav0_0/)
 [![](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rohit-yadav-b2a0a7202/)
-![](https://img.icons8.com/fluency/48/000000/twitter-squared.png)
+[![](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/yadav_rohit_26)
 
 ## Skills
 
