@@ -2,7 +2,7 @@
 
 ## Find me elsewhere
 ![](https://img.icons8.com/fluency/48/000000/instagram-new.png)
-![][(https://img.icons8.com/color/48/000000/linkedin.png)(https://www.linkedin.com/in/rohit-yadav-b2a0a7202/)]
+[![](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rohit-yadav-b2a0a7202/)
 ![](https://img.icons8.com/fluency/48/000000/twitter-squared.png)
 
 ## Skills
