@@ -1,6 +1,6 @@
 ![Braydon's GitHub Banner](https://cdn.discordapp.com/attachments/577128047740977162/935783584151797770/preview.jpg)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/yadav_rohit_26)]
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rohit-yadav-b2a0a7202/)]
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rohit-yadav-b2a0a7202/)
 ### Hi there 👋
 
 <!--
