@@ -1,9 +1,6 @@
 ![GitHub Banner](https://cdn.discordapp.com/attachments/577128047740977162/935783584151797770/preview.jpg)
 
-## Find me elsewhere
-<!-- [![](https://img.icons8.com/fluency/48/000000/instagram-new.png)]() -->
-[![](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rohit-yadav-b2a0a7202/)
-[![](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/yadav_rohit_26)
+
 
 ### Hi there 👋
  
@@ -26,6 +23,11 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](	https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+## Find me elsewhere
+<!-- [![](https://img.icons8.com/fluency/48/000000/instagram-new.png)]() -->
+[![](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rohit-yadav-b2a0a7202/)
+[![](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/yadav_rohit_26)
 
 <!--
 **yadav-rohit/yadav-rohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
