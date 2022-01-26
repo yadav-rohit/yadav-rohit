@@ -1,7 +1,7 @@
 ![Braydon's GitHub Banner](https://cdn.discordapp.com/attachments/577128047740977162/935783584151797770/preview.jpg)
 
 ## Find me elsewhere
-![](https://img.icons8.com/color/48/000000/instagram-new--v1.png)
+![](https://img.icons8.com/fluency/48/000000/instagram-new.png)
 ![](https://img.icons8.com/color/48/000000/linkedin.png)
 ![](https://img.icons8.com/nolan/64/twitter-squared.png)
 
