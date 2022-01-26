@@ -3,7 +3,7 @@
 ## Find me elsewhere
 ![](https://img.icons8.com/fluency/48/000000/instagram-new.png)
 ![](https://img.icons8.com/color/48/000000/linkedin.png)
-![](https://img.icons8.com/nolan/64/twitter-squared.png)
+![](https://img.icons8.com/fluency/48/000000/twitter-squared.png)
 
 ## Skills
 
