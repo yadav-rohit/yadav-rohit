@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rohit-yadav-b2a0a7202/)
 
 ## Skills
-
+![](https://img.icons8.com/fluency/48/000000/instagram-new.png)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
