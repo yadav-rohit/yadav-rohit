@@ -14,6 +14,9 @@
 ![](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ### Hi there 👋
+ 
+ Myself Rohit and i am a full stack web developer and a tech enthusiast . I am an Engineering student and i love to explore and brainstrom with more enthusiast people like me and share and earn knowledge .
+
  🌱 I’m currently learning 3d web development and blockchain
  
  🔭 I’m currently working on MERN full stack webdevelopment & bot development
