@@ -5,6 +5,14 @@
 [![](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rohit-yadav-b2a0a7202/)
 [![](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/yadav_rohit_26)
 
+### Hi there 👋
+ 
+ Myself Rohit and i am a full stack web developer and a tech enthusiast . I am an Engineering student and i love to explore and brainstrom with more enthusiast people like me and share and earn knowledge .
+
+ 🌱 I’m currently learning 3d web development and blockchain
+ 
+ 🔭 I’m currently working on MERN full stack webdevelopment & bot development
+ 
 ## Skills
 
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
@@ -18,13 +26,7 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](	https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-### Hi there 👋
- 
- Myself Rohit and i am a full stack web developer and a tech enthusiast . I am an Engineering student and i love to explore and brainstrom with more enthusiast people like me and share and earn knowledge .
 
- 🌱 I’m currently learning 3d web development and blockchain
- 
- 🔭 I’m currently working on MERN full stack webdevelopment & bot development
 <!--
 **yadav-rohit/yadav-rohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
