@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Braydon's GitHub Banner](https://cdn.discordapp.com/attachments/577128047740977162/935780358673285120/PicsArt_02-09-08.44.27.jpg)]
 ### Hi there 👋
 
 <!--
