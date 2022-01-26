@@ -2,8 +2,8 @@
 
 ## Find me elsewhere
 ![](https://img.icons8.com/fluency/48/000000/instagram-new.png)
-[![](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/yadav_rohit_26)
-[![](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rohit-yadav-b2a0a7202/)
+![](https://img.icons8.com/color/48/000000/linkedin.png)
+
 
 ## Skills
 
