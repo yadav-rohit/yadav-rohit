@@ -23,6 +23,7 @@
 [![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
 [![](	https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)]()
+[![](https://www.flaticon.com/free-icon/python_5968350?term=programming%20languages&page=1&position=16&page=1&position=16&related_id=5968350&origin=search)]
 
 ## Find me elsewhere
 <!-- [![](https://img.icons8.com/fluency/48/000000/instagram-new.png)]() -->
