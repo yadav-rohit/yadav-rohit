@@ -11,6 +11,7 @@
  🔭 I’m currently working on MERN full stack webdevelopment & bot development</h3>
  
 <h1><Strong>Skills</Strong></h1>
+
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm,figma,git,mongodb,nextjs,nodejs,py,tailwind,ts,unity,c,cpp)](https://skills.thijs.gg)
 <!-- [![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)]()
 [![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
