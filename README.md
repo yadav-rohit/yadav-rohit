@@ -11,8 +11,8 @@
  🔭 I’m currently working on MERN full stack webdevelopment & bot development
  
 ## Skills
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
-[![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)]()
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm,figma,git,mongodb,nextjs,nodejs,py,tailwind,ts,unity,c,cpp)](https://skills.thijs.gg)
+<!-- [![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)]()
 [![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
 [![](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)]()
 [![](	https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)]()
@@ -23,7 +23,7 @@
 [![](	https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()
 [![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
 [![](	https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
-[![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)]()
+[![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)]() -->
 
 ## Connect with Me 
 
