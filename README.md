@@ -1,4 +1,6 @@
-![GitHub Banner](https://cdn.discordapp.com/attachments/577128047740977162/935783584151797770/preview.jpg)
+
+![GitHub Banner](https://cdn.discordapp.com/attachments/577128047740977162/1008033276486758490/Nature_Travel_Youtube_Video_Intro.gif)
+
 
 
 
