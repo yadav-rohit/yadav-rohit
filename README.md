@@ -1,4 +1,4 @@
-![GitHub Banner](https://cdn.discordapp.com/attachments/577128047740977162/1007903516817367140/Untitled-1_file_2025x1080.png)
+![GitHub Banner](https://cdn.discordapp.com/attachments/577128047740977162/935783584151797770/preview.jpg)
 
 
 
