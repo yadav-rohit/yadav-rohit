@@ -4,11 +4,11 @@
 
 ### Hi there 👋
  
- Myself Rohit and i am a full stack web developer and a tech enthusiast . I am an Engineering student and i love to explore and brainstrom with more enthusiast people like me and share and earn knowledge .
+ <h1>Myself Rohit and i am a full stack web developer and a tech enthusiast . I am an Engineering student and i love to explore and brainstrom with more enthusiast people like me and share and earn knowledge .
 
  🌱 I’m currently learning 3d web development and blockchain
  
- 🔭 I’m currently working on MERN full stack webdevelopment & bot development
+ 🔭 I’m currently working on MERN full stack webdevelopment & bot development</h1>
  
 ## Skills
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm,figma,git,mongodb,nextjs,nodejs,py,tailwind,ts,unity,c,cpp)](https://skills.thijs.gg)
