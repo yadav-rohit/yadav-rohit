@@ -8,7 +8,7 @@
 
  🌱 I’m currently learning 3d web development and blockchain
  
- 🔭 I’m currently working on MERN full stack webdevelopment & bot development</h3>
+ 🔭 I’m currently working on MERN full stack web development & bot development</h3>
  
 <h1><Strong>Skills</Strong></h1>
 
