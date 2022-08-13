@@ -2,15 +2,15 @@
 
 
 
-### Hi there 👋
+<h1>Hi there 👋 </h1>
  
- <h1>Myself Rohit and i am a full stack web developer and a tech enthusiast . I am an Engineering student and i love to explore and brainstrom with more enthusiast people like me and share and earn knowledge .
+ <h3>Myself Rohit and i am a full stack web developer and a tech enthusiast . I am an Engineering student and i love to explore and brainstrom with more enthusiast people like me and share and earn knowledge .
 
  🌱 I’m currently learning 3d web development and blockchain
  
- 🔭 I’m currently working on MERN full stack webdevelopment & bot development</h1>
+ 🔭 I’m currently working on MERN full stack webdevelopment & bot development</h3>
  
-## Skills
+<h1><Strong>Skills</Strong></h1>
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm,figma,git,mongodb,nextjs,nodejs,py,tailwind,ts,unity,c,cpp)](https://skills.thijs.gg)
 <!-- [![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)]()
 [![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
@@ -24,8 +24,7 @@
 [![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
 [![](	https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)]() -->
-
-## Connect with Me 
+<h1><Strong>Connect with Me </Strong></h1>
 
 <!-- [![](https://img.icons8.com/fluency/48/000000/instagram-new.png)]() -->
 [![](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rohit-yadav-b2a0a7202/)
