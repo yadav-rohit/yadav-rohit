@@ -1,5 +1,5 @@
 
-![GitHub Banner](https://cdn.discordapp.com/attachments/577128047740977162/1008049791571349536/Colorful_Flat_We_Want_Your_Feedback_Banner.gif)
+![GitHub Banner](https://cdn.discordapp.com/attachments/577128047740977162/1008050140495495209/Colorful_Flat_We_Want_Your_Feedback_Banner_2.gif)
 
 
 
