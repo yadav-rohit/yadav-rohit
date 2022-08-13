@@ -25,7 +25,9 @@
 [![](	https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)]()
 
-## Find me elsewhere
+## <div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
 <!-- [![](https://img.icons8.com/fluency/48/000000/instagram-new.png)]() -->
 [![](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rohit-yadav-b2a0a7202/)
 [![](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/yadav_rohit_26)
