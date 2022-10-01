@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on MERN full stack web development & bot development</h3>
  
- [![@rphi's Holopin board](https://holopin.io/api/user/board?user=Rohit)](https://holopin.io/@rohit_0_0)
+ [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rohit_0_0)](https://holopin.io/@rohit_0_0)
  
 <h1><Strong>Skills</Strong></h1>
 
