@@ -12,6 +12,8 @@
  
  🔭 I’m currently working on MERN full stack web development & bot development</h3>
  
+ [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rohit_0_0)
+ 
 <h1><Strong>Skills</Strong></h1>
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm,figma,git,mongodb,nextjs,nodejs,py,tailwind,ts,unity,c,cpp)](https://skills.thijs.gg)
