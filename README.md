@@ -8,15 +8,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-*   🌍  I'm based in India
-*   🖥️  See my portfolio at [yadavrohit.live](http://yadavrohit.live)
-*   ✉️  You can contact me at [forwork.ry@gmail.com](mailto:forwork.ry@gmail.com)
-*   🧠  I'm learning Brain.js
-*   🤝  I'm open to collaborating on Web3 , Public welfare and innovation
-*   ⚡  I'm a mind reader , but let's keep it a secret<a href="https://www.github.com/yadav-rohit" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/yadav-rohit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [yadavrohit.live](http://yadavrohit.live)
+* ✉️  You can contact me at [forwork.ry@gmail.com](mailto:forwork.ry@gmail.com)
+* 🧠  I'm learning Brain.js
+* 🤝  I'm open to collaborating on Web3 , Public welfare and innovation
+* ⚡  I'm a mind reader , but let's keep it a secret
 
-### Skills 
+<a href="https://www.github.com/yadav-rohit" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/yadav-rohit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -61,28 +65,20 @@ Web Developer
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
-                    
- ### Socials
-                  
-                  
-<p align="left">
-                          
-<a href="https://www.github.com/yadav-rohit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-<a href="https://yadavrohit.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-<a href="http://www.instagram.com/rohit.yadav0_0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.linkedin.com/in/rohit-yadav-b2a0a7202" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-  <a href="http://www.medium.com/@COde_CrAck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.twitter.com/yadav_rohit_26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/yadav-rohit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://yadavrohit.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rohit.yadav0_0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rohit-yadav-b2a0a7202" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@COde_CrAck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yadav_rohit_26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
+
 <b>My GitHub Stats</b>
+
 <a href="http://www.github.com/yadav-rohit"><img src="https://github-readme-stats.vercel.app/api?username=yadav-rohit&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yadav-rohit's GitHub stats" /></a>
+
 <a href="https://github.com/yadav-rohit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-rohit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/yadav.rohit"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
