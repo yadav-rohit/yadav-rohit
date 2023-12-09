@@ -9,7 +9,7 @@ Web Developer. web3. freelancer
 -------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [yadavrohit.live](http://yadavrohit.me)
+* 🖥️  See my portfolio at [yadavrohit.me](http://yadavrohit.me)
 * ✉️  You can contact me at [forwork.ry@gmail.com](mailto:forwork.ry@gmail.com)
 * 🧠  I'm learning Brain.js
 * 🤝  I'm open to collaborating on Web3 , Public welfare and innovation
